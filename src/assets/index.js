@@ -3,8 +3,8 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import projectsDocs from "./documents/projects2.pdf";
-import resume from "./documents/resume2.pdf";
+import projectsDocs from "./documents/projects.pdf";
+import resume from "./documents/resume.pdf";
 
 //navbar
 import menu from "./menu.svg";
