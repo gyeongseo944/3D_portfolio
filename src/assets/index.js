@@ -3,8 +3,8 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import projectsDocs from "./documents/projects.pdf";
-import resume from "./documents/resume.pdf";
+import projectsDocs from "./documents/projects2.pdf";
+import resume from "./documents/resume2.pdf";
 
 //navbar
 import menu from "./menu.svg";
@@ -32,6 +32,7 @@ import spring from "./tech/spring.png";
 
 //projects component
 import github from "./github.png";
+import go from "./go.png";
 import actors from "./projects/actors.png";
 import personal from "./projects/personal.png";
 import remoview from "./projects/remoview.png";
@@ -65,4 +66,5 @@ export {
   actors,
   personal,
   remoview,
+  go,
 };
