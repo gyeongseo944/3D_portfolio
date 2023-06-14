@@ -82,9 +82,7 @@ const Projects = () => {
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
-        >
-          프로젝트 설명설명설명설명
-        </motion.p>
+        ></motion.p>
       </div>
 
       <div className="flex flex-wrap mt-20 gap-7">
